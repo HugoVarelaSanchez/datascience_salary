@@ -1,5 +1,6 @@
 # DataScience salaries
- 
+ | ![Imagen 1](fotos/bp.png) | ![Imagen 2](fotos/pp.png) |
+ |-------------------------------|------------------------------|
 ## Descripion
 
 Analisis de salarios en el ambito de la ciencia de datos recopilados entre 2020 y 2024.
@@ -10,6 +11,7 @@ El objetivo es tener una vision de los salarios en este campo en España.
 * salarys.ipynb: Notebook que contiene el analisis completo de los datos
 * DataScience_salaries_2024.csv: Conjunto de datos
 * README.md: Este archivo
+* fotos: Carpeta que contiene las fotos del README.md
 
 ## Requisitos
 
